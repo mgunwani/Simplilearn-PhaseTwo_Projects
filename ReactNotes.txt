@@ -1,0 +1,50 @@
+
+1. To check whether Node and NPM are installed or not:
+
+	node --version
+	
+	npm --version
+	
+2. Install React CLI package globally:
+
+	npm install create-react-app --global
+	
+3. Generate React App using CLI command:
+
+	a. Go to Specific folder where you want to generate project.
+	b. And then generate React App.
+	
+	E:\Simplilearn-PhaseTwo-Projects> 
+	
+	create-react-app react-dayone
+	cd react-dayone
+	npm start
+	
+-----------------------------------------------------	
+
+Angular and React:
+
+	1. Angular is a complete MVC or MVVM Framework.
+	   React is just a view (V) library from MVC Framework.
+		
+	2. Angular support two-way data binding and Dependency Injection.
+	   React doesn't support two-way data binding and Dependency Injection.
+		
+-----------------------------------------------------
+	
+React:
+
+	- React is View Library.
+	- React is component based library.
+	-
+
+
+
+
+
+
+
+
+
+
+	
