@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "id": 1001,
+      "name": "King Kochhar Engineer",
+      "salary": "40000",
+      "designation": "Software Trainer"
+    },
+    {
+      "id": 1002,
+      "name": "John Smith Smith",
+      "salary": "35002",
+      "designation": "Developer"
+    },
+    {
+      "id": 1003,
+      "name": "Sarah Bowling",
+      "salary": 24000,
+      "designation": "Training Cordinator"
+    }
+  ]
+}

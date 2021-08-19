@@ -1,0 +1,22 @@
+{
+    "employees": [
+        {
+            "id": 1001,
+            "name":"King Kochhar",
+            "salary": 20000,
+            "designation": "Manager"
+        },
+        {
+            "id": 1002,
+            "name":"John Smith",
+            "salary": 35000,
+            "designation": "Sr. Manager"
+        },
+        {
+            "id": 1003,
+            "name":"Sarah Bowling",
+            "salary": 24000,
+            "designation": "Training Cordinator"
+        }
+    ]
+}
