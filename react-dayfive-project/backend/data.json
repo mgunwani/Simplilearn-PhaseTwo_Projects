@@ -1,0 +1,59 @@
+{
+  "employees": [
+    {
+      "id": 1001,
+      "name": "King Kochhar Engineer",
+      "salary": "40000",
+      "designation": "Software Trainer"
+    },
+    {
+      "id": 1002,
+      "name": "John Smith Smith",
+      "salary": "35002",
+      "designation": "Developer"
+    },
+    {
+      "id": 1003,
+      "name": "Sarah Bowling",
+      "salary": 24000,
+      "designation": "Training Cordinator"
+    }
+  ],
+  "users": [
+    {
+      "id": 1001,
+      "username": "bhawnagunwani",
+      "password": "123456",
+      "email": "bhawna@gmail.com",
+      "user_type": "admin"
+    },
+    {
+      "id": 1002,
+      "username": "king",
+      "password": "123456",
+      "email": "king@gmail.com",
+      "user_type": "user"
+    },
+    {
+      "id": 1003,
+      "username": "kochhar",
+      "password": "123456",
+      "email": "kochhar@gmail.com",
+      "user_type": "user"
+    },
+    {
+      "username": "sarah",
+      "password": "123456",
+      "email": "sarah@gmail.com",
+      "user_type": "user",
+      "id": 1004
+    },
+    {
+      "username": "john",
+      "password": "123456",
+      "email": "john@gmail.com",
+      "user_type": "user",
+      "id": 1005
+    }
+  ]
+}
